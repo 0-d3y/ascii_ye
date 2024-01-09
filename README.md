@@ -1,4 +1,4 @@
-![Logi](https://raw.githubusercontent.com/mr-sami-x/sami_ai/main/logo.png)
+![Logi](https://raw.githubusercontent.com/mr-sami-x/ascii_ye/main/logo.png)
 
 # ASCII YE
 
